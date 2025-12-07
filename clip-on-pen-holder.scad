@@ -14,7 +14,7 @@ $fn=24;
 //import existing pen holder with rubberband hook
 translate([8,23,-8]){
     rotate([0,0,180])
-import("C:/Users/slarson/OneDrive - Wind River Systems/Documents/3dprint/pen_mount_simple.stl");
+import("pen_mount_simple.stl");
 }
 
 //triangle
@@ -74,6 +74,7 @@ translate([arm_thick/2,stop_thick+gap_thick,bracket_height-upper_hook_depth+arm_
 {
     cube([arm_thick, arm_thick, body_height]);
 }
+
 
 
 
