@@ -1,4 +1,4 @@
-gap_thick=1.25;
+gap_thick=1;
 
 arm_thick=8;
 stop_thick=2;
@@ -12,8 +12,8 @@ body_height = 3;
 $fn=24;
 
 //import existing pen holder with rubberband hook
-translate([width/2,23,-12]){
-    rotate([0,0,180])
+translate([width/2,21,-12]){
+    rotate([0,0,90])
 import("C:/Users/slarson/OneDrive - Wind River Systems/Documents/3dprint/pen_mount_simple.stl");
 }
 
