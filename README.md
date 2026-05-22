@@ -1,0 +1,1 @@
+This clips on to the metal fan bracket of a Prusa MK4S printer and holds a pen to be used as a pen plotter. More info here: https://www.printables.com/model/1519803-clip-on-pen-holder-for-mk4s-nextruder
